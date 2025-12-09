@@ -4,7 +4,7 @@
 
 #### 🔭 I’m currently working on ...
 
-my self studiing to learn more and develop my brain at the maximum level
+my self, studiing to learn more and develop my brain at the maximum level
 
 #### 🌱 I’m currently learning ...
 
@@ -16,7 +16,7 @@ This are some of the things I am learning in this Formative Curse.
 
 and out of the basic for my selve I am studing diferent thing by my selve
 
-[![My Skills](https://skillicons.dev/icons?i=godot,cs,cpp,godot,unity)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,cs,cpp,unity)](https://skillicons.dev)
 
 
 #### 🤔 I’m looking for expand with ...
@@ -25,10 +25,10 @@ Everithing I can, But until now I dident find with why I am better using licke i
 
 #### 📫 How to reach me: ...
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)   
 
 xmassaneda324@boscdelacoma.cat
 
 #### ⚡ Fun fact: ...
 
-I like to find the fail on the correct things I do.
+I like to find the fail on the correct things I did.
