@@ -12,7 +12,7 @@ I am learning ASIX in the institute if Bosc de la coma from olot.
 
 This are some of the things I am learning in this Formative Curse.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,pycharm,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,html,css,pycharm,vscode)](https://skillicons.dev)
 
 and out of the basic for my selve I am studing diferent thing by my selve
 
